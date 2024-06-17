@@ -3,13 +3,21 @@ This datapack is built for Minecraft Java Edition V1.21
 Key Commands:
 
 To get the movement book type the command-
+
 /function tinyblocks:give/movement_tool
 
+--
+
 To get the spawn egg type the command-
+
 /function tinyblocks:give/spawn_egg
 
+--
+
 In order to modify what block you are selecting; type this command-
+
 /function tinyblocks:utility/change {"block":"minecraft:stone"}
+
 change the json value of "block" to whatever block you are wanting
 
 
