@@ -11,9 +11,13 @@ To get the spawn egg type the command-
 In order to modify what block you are selecting; type this command-
 /function tinyblocks:utility/change {"block":"minecraft:stone"}
 change the json value of "block" to whatever block you are wanting
+
+
+User Agreement
 -------------------------------------------------------
 
-This Agreement was made on the sixteenth day of june in 2024 by and between the creator and owner of the Minecraft datapack "Tiny Blocks," known as "DerpKing11, or DerpKing1" and any individual who downloads, uses, or distributes the "Tiny Blocks" datapack, known as the "User."
+This Agreement was made on the sixteenth day of june in 2024 by and between the creator and owner of the Minecraft datapack "Tiny Blocks," known as "DerpKing11, or DerpKing1"
+and any individual who downloads, uses, or distributes the "Tiny Blocks" datapack, known as the "User."
 
 Ownership: The "Tiny Blocks" datapack is the exclusive property of DerpKing11. All rights remain with DerpKing11.
 
